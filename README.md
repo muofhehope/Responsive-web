@@ -1,1 +1,1 @@
-# Responsive-web
+# responsive-web-gallery
